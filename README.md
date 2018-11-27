@@ -1,3 +1,3 @@
 # c-primer
-studying
+studying;
 c++ primer 第五版课本代码实现
